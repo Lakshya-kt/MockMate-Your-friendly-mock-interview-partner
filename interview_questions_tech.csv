@@ -1,0 +1,1001 @@
+Company,Role,Question ID,Question,Category,Difficulty
+Google,Software Engineer,1,Explain the difference between a process and a thread.,Coding,Medium
+Google,Software Engineer,2,How would you design a scalable chat application?,System Design,Hard
+Google,Software Engineer,3,Describe a time you optimized code for performance.,Behavioral,Medium
+Google,Software Engineer,4,Explain memory management in programming languages.,Coding,Medium
+Google,Software Engineer,5,How do you handle merge conflicts in Git?,Coding,Easy
+Google,Data Scientist,6,Explain bias-variance tradeoff.,Coding,Medium
+Google,Data Scientist,7,How would you handle missing values?,Coding,Medium
+Google,Data Scientist,8,Describe a predictive model you built.,Behavioral,Medium
+Google,Data Scientist,9,How do you evaluate a machine learning model?,Coding,Hard
+Google,Data Scientist,10,Explain PCA and when to use it.,Coding,Medium
+Google,AI Engineer,11,Explain supervised vs unsupervised learning.,Coding,Medium
+Google,AI Engineer,12,Describe a neural network you implemented.,Coding,Hard
+Google,AI Engineer,13,How do you prevent overfitting in deep learning?,Coding,Hard
+Google,AI Engineer,14,What is reinforcement learning?,Coding,Medium
+Google,AI Engineer,15,How do you optimize model performance?,Coding,Medium
+Google,DevOps Engineer,16,Explain CI/CD pipeline.,System Design,Medium
+Google,DevOps Engineer,17,How do you monitor server performance?,Coding,Medium
+Google,DevOps Engineer,18,Describe a time you handled deployment failures.,Behavioral,Medium
+Google,DevOps Engineer,19,How would you scale infrastructure for high traffic?,System Design,Hard
+Google,DevOps Engineer,20,Explain containerization and orchestration.,Coding,Medium
+Google,QA Engineer,21,Explain different testing strategies.,Coding,Medium
+Google,QA Engineer,22,How do you write automated tests?,Coding,Medium
+Google,QA Engineer,23,Describe a challenging bug you found.,Behavioral,Medium
+Google,QA Engineer,24,Explain performance testing.,Coding,Hard
+Google,QA Engineer,25,How do you ensure software quality in releases?,Behavioral,Medium
+Amazon,Software Engineer,26,Explain the difference between a process and a thread.,Coding,Medium
+Amazon,Software Engineer,27,How would you design a scalable chat application?,System Design,Hard
+Amazon,Software Engineer,28,Describe a time you optimized code for performance.,Behavioral,Medium
+Amazon,Software Engineer,29,Explain memory management in programming languages.,Coding,Medium
+Amazon,Software Engineer,30,How do you handle merge conflicts in Git?,Coding,Easy
+Amazon,Data Scientist,31,Explain bias-variance tradeoff.,Coding,Medium
+Amazon,Data Scientist,32,How would you handle missing values?,Coding,Medium
+Amazon,Data Scientist,33,Describe a predictive model you built.,Behavioral,Medium
+Amazon,Data Scientist,34,How do you evaluate a machine learning model?,Coding,Hard
+Amazon,Data Scientist,35,Explain PCA and when to use it.,Coding,Medium
+Amazon,AI Engineer,36,Explain supervised vs unsupervised learning.,Coding,Medium
+Amazon,AI Engineer,37,Describe a neural network you implemented.,Coding,Hard
+Amazon,AI Engineer,38,How do you prevent overfitting in deep learning?,Coding,Hard
+Amazon,AI Engineer,39,What is reinforcement learning?,Coding,Medium
+Amazon,AI Engineer,40,How do you optimize model performance?,Coding,Medium
+Amazon,DevOps Engineer,41,Explain CI/CD pipeline.,System Design,Medium
+Amazon,DevOps Engineer,42,How do you monitor server performance?,Coding,Medium
+Amazon,DevOps Engineer,43,Describe a time you handled deployment failures.,Behavioral,Medium
+Amazon,DevOps Engineer,44,How would you scale infrastructure for high traffic?,System Design,Hard
+Amazon,DevOps Engineer,45,Explain containerization and orchestration.,Coding,Medium
+Amazon,QA Engineer,46,Explain different testing strategies.,Coding,Medium
+Amazon,QA Engineer,47,How do you write automated tests?,Coding,Medium
+Amazon,QA Engineer,48,Describe a challenging bug you found.,Behavioral,Medium
+Amazon,QA Engineer,49,Explain performance testing.,Coding,Hard
+Amazon,QA Engineer,50,How do you ensure software quality in releases?,Behavioral,Medium
+Microsoft,Software Engineer,51,Explain the difference between a process and a thread.,Coding,Medium
+Microsoft,Software Engineer,52,How would you design a scalable chat application?,System Design,Hard
+Microsoft,Software Engineer,53,Describe a time you optimized code for performance.,Behavioral,Medium
+Microsoft,Software Engineer,54,Explain memory management in programming languages.,Coding,Medium
+Microsoft,Software Engineer,55,How do you handle merge conflicts in Git?,Coding,Easy
+Microsoft,Data Scientist,56,Explain bias-variance tradeoff.,Coding,Medium
+Microsoft,Data Scientist,57,How would you handle missing values?,Coding,Medium
+Microsoft,Data Scientist,58,Describe a predictive model you built.,Behavioral,Medium
+Microsoft,Data Scientist,59,How do you evaluate a machine learning model?,Coding,Hard
+Microsoft,Data Scientist,60,Explain PCA and when to use it.,Coding,Medium
+Microsoft,AI Engineer,61,Explain supervised vs unsupervised learning.,Coding,Medium
+Microsoft,AI Engineer,62,Describe a neural network you implemented.,Coding,Hard
+Microsoft,AI Engineer,63,How do you prevent overfitting in deep learning?,Coding,Hard
+Microsoft,AI Engineer,64,What is reinforcement learning?,Coding,Medium
+Microsoft,AI Engineer,65,How do you optimize model performance?,Coding,Medium
+Microsoft,DevOps Engineer,66,Explain CI/CD pipeline.,System Design,Medium
+Microsoft,DevOps Engineer,67,How do you monitor server performance?,Coding,Medium
+Microsoft,DevOps Engineer,68,Describe a time you handled deployment failures.,Behavioral,Medium
+Microsoft,DevOps Engineer,69,How would you scale infrastructure for high traffic?,System Design,Hard
+Microsoft,DevOps Engineer,70,Explain containerization and orchestration.,Coding,Medium
+Microsoft,QA Engineer,71,Explain different testing strategies.,Coding,Medium
+Microsoft,QA Engineer,72,How do you write automated tests?,Coding,Medium
+Microsoft,QA Engineer,73,Describe a challenging bug you found.,Behavioral,Medium
+Microsoft,QA Engineer,74,Explain performance testing.,Coding,Hard
+Microsoft,QA Engineer,75,How do you ensure software quality in releases?,Behavioral,Medium
+Meta,Software Engineer,76,Explain the difference between a process and a thread.,Coding,Medium
+Meta,Software Engineer,77,How would you design a scalable chat application?,System Design,Hard
+Meta,Software Engineer,78,Describe a time you optimized code for performance.,Behavioral,Medium
+Meta,Software Engineer,79,Explain memory management in programming languages.,Coding,Medium
+Meta,Software Engineer,80,How do you handle merge conflicts in Git?,Coding,Easy
+Meta,Data Scientist,81,Explain bias-variance tradeoff.,Coding,Medium
+Meta,Data Scientist,82,How would you handle missing values?,Coding,Medium
+Meta,Data Scientist,83,Describe a predictive model you built.,Behavioral,Medium
+Meta,Data Scientist,84,How do you evaluate a machine learning model?,Coding,Hard
+Meta,Data Scientist,85,Explain PCA and when to use it.,Coding,Medium
+Meta,AI Engineer,86,Explain supervised vs unsupervised learning.,Coding,Medium
+Meta,AI Engineer,87,Describe a neural network you implemented.,Coding,Hard
+Meta,AI Engineer,88,How do you prevent overfitting in deep learning?,Coding,Hard
+Meta,AI Engineer,89,What is reinforcement learning?,Coding,Medium
+Meta,AI Engineer,90,How do you optimize model performance?,Coding,Medium
+Meta,DevOps Engineer,91,Explain CI/CD pipeline.,System Design,Medium
+Meta,DevOps Engineer,92,How do you monitor server performance?,Coding,Medium
+Meta,DevOps Engineer,93,Describe a time you handled deployment failures.,Behavioral,Medium
+Meta,DevOps Engineer,94,How would you scale infrastructure for high traffic?,System Design,Hard
+Meta,DevOps Engineer,95,Explain containerization and orchestration.,Coding,Medium
+Meta,QA Engineer,96,Explain different testing strategies.,Coding,Medium
+Meta,QA Engineer,97,How do you write automated tests?,Coding,Medium
+Meta,QA Engineer,98,Describe a challenging bug you found.,Behavioral,Medium
+Meta,QA Engineer,99,Explain performance testing.,Coding,Hard
+Meta,QA Engineer,100,How do you ensure software quality in releases?,Behavioral,Medium
+Apple,Software Engineer,101,Explain the difference between a process and a thread.,Coding,Medium
+Apple,Software Engineer,102,How would you design a scalable chat application?,System Design,Hard
+Apple,Software Engineer,103,Describe a time you optimized code for performance.,Behavioral,Medium
+Apple,Software Engineer,104,Explain memory management in programming languages.,Coding,Medium
+Apple,Software Engineer,105,How do you handle merge conflicts in Git?,Coding,Easy
+Apple,Data Scientist,106,Explain bias-variance tradeoff.,Coding,Medium
+Apple,Data Scientist,107,How would you handle missing values?,Coding,Medium
+Apple,Data Scientist,108,Describe a predictive model you built.,Behavioral,Medium
+Apple,Data Scientist,109,How do you evaluate a machine learning model?,Coding,Hard
+Apple,Data Scientist,110,Explain PCA and when to use it.,Coding,Medium
+Apple,AI Engineer,111,Explain supervised vs unsupervised learning.,Coding,Medium
+Apple,AI Engineer,112,Describe a neural network you implemented.,Coding,Hard
+Apple,AI Engineer,113,How do you prevent overfitting in deep learning?,Coding,Hard
+Apple,AI Engineer,114,What is reinforcement learning?,Coding,Medium
+Apple,AI Engineer,115,How do you optimize model performance?,Coding,Medium
+Apple,DevOps Engineer,116,Explain CI/CD pipeline.,System Design,Medium
+Apple,DevOps Engineer,117,How do you monitor server performance?,Coding,Medium
+Apple,DevOps Engineer,118,Describe a time you handled deployment failures.,Behavioral,Medium
+Apple,DevOps Engineer,119,How would you scale infrastructure for high traffic?,System Design,Hard
+Apple,DevOps Engineer,120,Explain containerization and orchestration.,Coding,Medium
+Apple,QA Engineer,121,Explain different testing strategies.,Coding,Medium
+Apple,QA Engineer,122,How do you write automated tests?,Coding,Medium
+Apple,QA Engineer,123,Describe a challenging bug you found.,Behavioral,Medium
+Apple,QA Engineer,124,Explain performance testing.,Coding,Hard
+Apple,QA Engineer,125,How do you ensure software quality in releases?,Behavioral,Medium
+Google,Software Engineer,126,Explain the difference between a process and a thread.,Coding,Medium
+Google,Software Engineer,127,How would you design a scalable chat application?,System Design,Hard
+Google,Software Engineer,128,Describe a time you optimized code for performance.,Behavioral,Medium
+Google,Software Engineer,129,Explain memory management in programming languages.,Coding,Medium
+Google,Software Engineer,130,How do you handle merge conflicts in Git?,Coding,Easy
+Google,Data Scientist,131,Explain bias-variance tradeoff.,Coding,Medium
+Google,Data Scientist,132,How would you handle missing values?,Coding,Medium
+Google,Data Scientist,133,Describe a predictive model you built.,Behavioral,Medium
+Google,Data Scientist,134,How do you evaluate a machine learning model?,Coding,Hard
+Google,Data Scientist,135,Explain PCA and when to use it.,Coding,Medium
+Google,AI Engineer,136,Explain supervised vs unsupervised learning.,Coding,Medium
+Google,AI Engineer,137,Describe a neural network you implemented.,Coding,Hard
+Google,AI Engineer,138,How do you prevent overfitting in deep learning?,Coding,Hard
+Google,AI Engineer,139,What is reinforcement learning?,Coding,Medium
+Google,AI Engineer,140,How do you optimize model performance?,Coding,Medium
+Google,DevOps Engineer,141,Explain CI/CD pipeline.,System Design,Medium
+Google,DevOps Engineer,142,How do you monitor server performance?,Coding,Medium
+Google,DevOps Engineer,143,Describe a time you handled deployment failures.,Behavioral,Medium
+Google,DevOps Engineer,144,How would you scale infrastructure for high traffic?,System Design,Hard
+Google,DevOps Engineer,145,Explain containerization and orchestration.,Coding,Medium
+Google,QA Engineer,146,Explain different testing strategies.,Coding,Medium
+Google,QA Engineer,147,How do you write automated tests?,Coding,Medium
+Google,QA Engineer,148,Describe a challenging bug you found.,Behavioral,Medium
+Google,QA Engineer,149,Explain performance testing.,Coding,Hard
+Google,QA Engineer,150,How do you ensure software quality in releases?,Behavioral,Medium
+Amazon,Software Engineer,151,Explain the difference between a process and a thread.,Coding,Medium
+Amazon,Software Engineer,152,How would you design a scalable chat application?,System Design,Hard
+Amazon,Software Engineer,153,Describe a time you optimized code for performance.,Behavioral,Medium
+Amazon,Software Engineer,154,Explain memory management in programming languages.,Coding,Medium
+Amazon,Software Engineer,155,How do you handle merge conflicts in Git?,Coding,Easy
+Amazon,Data Scientist,156,Explain bias-variance tradeoff.,Coding,Medium
+Amazon,Data Scientist,157,How would you handle missing values?,Coding,Medium
+Amazon,Data Scientist,158,Describe a predictive model you built.,Behavioral,Medium
+Amazon,Data Scientist,159,How do you evaluate a machine learning model?,Coding,Hard
+Amazon,Data Scientist,160,Explain PCA and when to use it.,Coding,Medium
+Amazon,AI Engineer,161,Explain supervised vs unsupervised learning.,Coding,Medium
+Amazon,AI Engineer,162,Describe a neural network you implemented.,Coding,Hard
+Amazon,AI Engineer,163,How do you prevent overfitting in deep learning?,Coding,Hard
+Amazon,AI Engineer,164,What is reinforcement learning?,Coding,Medium
+Amazon,AI Engineer,165,How do you optimize model performance?,Coding,Medium
+Amazon,DevOps Engineer,166,Explain CI/CD pipeline.,System Design,Medium
+Amazon,DevOps Engineer,167,How do you monitor server performance?,Coding,Medium
+Amazon,DevOps Engineer,168,Describe a time you handled deployment failures.,Behavioral,Medium
+Amazon,DevOps Engineer,169,How would you scale infrastructure for high traffic?,System Design,Hard
+Amazon,DevOps Engineer,170,Explain containerization and orchestration.,Coding,Medium
+Amazon,QA Engineer,171,Explain different testing strategies.,Coding,Medium
+Amazon,QA Engineer,172,How do you write automated tests?,Coding,Medium
+Amazon,QA Engineer,173,Describe a challenging bug you found.,Behavioral,Medium
+Amazon,QA Engineer,174,Explain performance testing.,Coding,Hard
+Amazon,QA Engineer,175,How do you ensure software quality in releases?,Behavioral,Medium
+Microsoft,Software Engineer,176,Explain the difference between a process and a thread.,Coding,Medium
+Microsoft,Software Engineer,177,How would you design a scalable chat application?,System Design,Hard
+Microsoft,Software Engineer,178,Describe a time you optimized code for performance.,Behavioral,Medium
+Microsoft,Software Engineer,179,Explain memory management in programming languages.,Coding,Medium
+Microsoft,Software Engineer,180,How do you handle merge conflicts in Git?,Coding,Easy
+Microsoft,Data Scientist,181,Explain bias-variance tradeoff.,Coding,Medium
+Microsoft,Data Scientist,182,How would you handle missing values?,Coding,Medium
+Microsoft,Data Scientist,183,Describe a predictive model you built.,Behavioral,Medium
+Microsoft,Data Scientist,184,How do you evaluate a machine learning model?,Coding,Hard
+Microsoft,Data Scientist,185,Explain PCA and when to use it.,Coding,Medium
+Microsoft,AI Engineer,186,Explain supervised vs unsupervised learning.,Coding,Medium
+Microsoft,AI Engineer,187,Describe a neural network you implemented.,Coding,Hard
+Microsoft,AI Engineer,188,How do you prevent overfitting in deep learning?,Coding,Hard
+Microsoft,AI Engineer,189,What is reinforcement learning?,Coding,Medium
+Microsoft,AI Engineer,190,How do you optimize model performance?,Coding,Medium
+Microsoft,DevOps Engineer,191,Explain CI/CD pipeline.,System Design,Medium
+Microsoft,DevOps Engineer,192,How do you monitor server performance?,Coding,Medium
+Microsoft,DevOps Engineer,193,Describe a time you handled deployment failures.,Behavioral,Medium
+Microsoft,DevOps Engineer,194,How would you scale infrastructure for high traffic?,System Design,Hard
+Microsoft,DevOps Engineer,195,Explain containerization and orchestration.,Coding,Medium
+Microsoft,QA Engineer,196,Explain different testing strategies.,Coding,Medium
+Microsoft,QA Engineer,197,How do you write automated tests?,Coding,Medium
+Microsoft,QA Engineer,198,Describe a challenging bug you found.,Behavioral,Medium
+Microsoft,QA Engineer,199,Explain performance testing.,Coding,Hard
+Microsoft,QA Engineer,200,How do you ensure software quality in releases?,Behavioral,Medium
+Meta,Software Engineer,201,Explain the difference between a process and a thread.,Coding,Medium
+Meta,Software Engineer,202,How would you design a scalable chat application?,System Design,Hard
+Meta,Software Engineer,203,Describe a time you optimized code for performance.,Behavioral,Medium
+Meta,Software Engineer,204,Explain memory management in programming languages.,Coding,Medium
+Meta,Software Engineer,205,How do you handle merge conflicts in Git?,Coding,Easy
+Meta,Data Scientist,206,Explain bias-variance tradeoff.,Coding,Medium
+Meta,Data Scientist,207,How would you handle missing values?,Coding,Medium
+Meta,Data Scientist,208,Describe a predictive model you built.,Behavioral,Medium
+Meta,Data Scientist,209,How do you evaluate a machine learning model?,Coding,Hard
+Meta,Data Scientist,210,Explain PCA and when to use it.,Coding,Medium
+Meta,AI Engineer,211,Explain supervised vs unsupervised learning.,Coding,Medium
+Meta,AI Engineer,212,Describe a neural network you implemented.,Coding,Hard
+Meta,AI Engineer,213,How do you prevent overfitting in deep learning?,Coding,Hard
+Meta,AI Engineer,214,What is reinforcement learning?,Coding,Medium
+Meta,AI Engineer,215,How do you optimize model performance?,Coding,Medium
+Meta,DevOps Engineer,216,Explain CI/CD pipeline.,System Design,Medium
+Meta,DevOps Engineer,217,How do you monitor server performance?,Coding,Medium
+Meta,DevOps Engineer,218,Describe a time you handled deployment failures.,Behavioral,Medium
+Meta,DevOps Engineer,219,How would you scale infrastructure for high traffic?,System Design,Hard
+Meta,DevOps Engineer,220,Explain containerization and orchestration.,Coding,Medium
+Meta,QA Engineer,221,Explain different testing strategies.,Coding,Medium
+Meta,QA Engineer,222,How do you write automated tests?,Coding,Medium
+Meta,QA Engineer,223,Describe a challenging bug you found.,Behavioral,Medium
+Meta,QA Engineer,224,Explain performance testing.,Coding,Hard
+Meta,QA Engineer,225,How do you ensure software quality in releases?,Behavioral,Medium
+Apple,Software Engineer,226,Explain the difference between a process and a thread.,Coding,Medium
+Apple,Software Engineer,227,How would you design a scalable chat application?,System Design,Hard
+Apple,Software Engineer,228,Describe a time you optimized code for performance.,Behavioral,Medium
+Apple,Software Engineer,229,Explain memory management in programming languages.,Coding,Medium
+Apple,Software Engineer,230,How do you handle merge conflicts in Git?,Coding,Easy
+Apple,Data Scientist,231,Explain bias-variance tradeoff.,Coding,Medium
+Apple,Data Scientist,232,How would you handle missing values?,Coding,Medium
+Apple,Data Scientist,233,Describe a predictive model you built.,Behavioral,Medium
+Apple,Data Scientist,234,How do you evaluate a machine learning model?,Coding,Hard
+Apple,Data Scientist,235,Explain PCA and when to use it.,Coding,Medium
+Apple,AI Engineer,236,Explain supervised vs unsupervised learning.,Coding,Medium
+Apple,AI Engineer,237,Describe a neural network you implemented.,Coding,Hard
+Apple,AI Engineer,238,How do you prevent overfitting in deep learning?,Coding,Hard
+Apple,AI Engineer,239,What is reinforcement learning?,Coding,Medium
+Apple,AI Engineer,240,How do you optimize model performance?,Coding,Medium
+Apple,DevOps Engineer,241,Explain CI/CD pipeline.,System Design,Medium
+Apple,DevOps Engineer,242,How do you monitor server performance?,Coding,Medium
+Apple,DevOps Engineer,243,Describe a time you handled deployment failures.,Behavioral,Medium
+Apple,DevOps Engineer,244,How would you scale infrastructure for high traffic?,System Design,Hard
+Apple,DevOps Engineer,245,Explain containerization and orchestration.,Coding,Medium
+Apple,QA Engineer,246,Explain different testing strategies.,Coding,Medium
+Apple,QA Engineer,247,How do you write automated tests?,Coding,Medium
+Apple,QA Engineer,248,Describe a challenging bug you found.,Behavioral,Medium
+Apple,QA Engineer,249,Explain performance testing.,Coding,Hard
+Apple,QA Engineer,250,How do you ensure software quality in releases?,Behavioral,Medium
+Google,Software Engineer,251,Explain the difference between a process and a thread.,Coding,Medium
+Google,Software Engineer,252,How would you design a scalable chat application?,System Design,Hard
+Google,Software Engineer,253,Describe a time you optimized code for performance.,Behavioral,Medium
+Google,Software Engineer,254,Explain memory management in programming languages.,Coding,Medium
+Google,Software Engineer,255,How do you handle merge conflicts in Git?,Coding,Easy
+Google,Data Scientist,256,Explain bias-variance tradeoff.,Coding,Medium
+Google,Data Scientist,257,How would you handle missing values?,Coding,Medium
+Google,Data Scientist,258,Describe a predictive model you built.,Behavioral,Medium
+Google,Data Scientist,259,How do you evaluate a machine learning model?,Coding,Hard
+Google,Data Scientist,260,Explain PCA and when to use it.,Coding,Medium
+Google,AI Engineer,261,Explain supervised vs unsupervised learning.,Coding,Medium
+Google,AI Engineer,262,Describe a neural network you implemented.,Coding,Hard
+Google,AI Engineer,263,How do you prevent overfitting in deep learning?,Coding,Hard
+Google,AI Engineer,264,What is reinforcement learning?,Coding,Medium
+Google,AI Engineer,265,How do you optimize model performance?,Coding,Medium
+Google,DevOps Engineer,266,Explain CI/CD pipeline.,System Design,Medium
+Google,DevOps Engineer,267,How do you monitor server performance?,Coding,Medium
+Google,DevOps Engineer,268,Describe a time you handled deployment failures.,Behavioral,Medium
+Google,DevOps Engineer,269,How would you scale infrastructure for high traffic?,System Design,Hard
+Google,DevOps Engineer,270,Explain containerization and orchestration.,Coding,Medium
+Google,QA Engineer,271,Explain different testing strategies.,Coding,Medium
+Google,QA Engineer,272,How do you write automated tests?,Coding,Medium
+Google,QA Engineer,273,Describe a challenging bug you found.,Behavioral,Medium
+Google,QA Engineer,274,Explain performance testing.,Coding,Hard
+Google,QA Engineer,275,How do you ensure software quality in releases?,Behavioral,Medium
+Amazon,Software Engineer,276,Explain the difference between a process and a thread.,Coding,Medium
+Amazon,Software Engineer,277,How would you design a scalable chat application?,System Design,Hard
+Amazon,Software Engineer,278,Describe a time you optimized code for performance.,Behavioral,Medium
+Amazon,Software Engineer,279,Explain memory management in programming languages.,Coding,Medium
+Amazon,Software Engineer,280,How do you handle merge conflicts in Git?,Coding,Easy
+Amazon,Data Scientist,281,Explain bias-variance tradeoff.,Coding,Medium
+Amazon,Data Scientist,282,How would you handle missing values?,Coding,Medium
+Amazon,Data Scientist,283,Describe a predictive model you built.,Behavioral,Medium
+Amazon,Data Scientist,284,How do you evaluate a machine learning model?,Coding,Hard
+Amazon,Data Scientist,285,Explain PCA and when to use it.,Coding,Medium
+Amazon,AI Engineer,286,Explain supervised vs unsupervised learning.,Coding,Medium
+Amazon,AI Engineer,287,Describe a neural network you implemented.,Coding,Hard
+Amazon,AI Engineer,288,How do you prevent overfitting in deep learning?,Coding,Hard
+Amazon,AI Engineer,289,What is reinforcement learning?,Coding,Medium
+Amazon,AI Engineer,290,How do you optimize model performance?,Coding,Medium
+Amazon,DevOps Engineer,291,Explain CI/CD pipeline.,System Design,Medium
+Amazon,DevOps Engineer,292,How do you monitor server performance?,Coding,Medium
+Amazon,DevOps Engineer,293,Describe a time you handled deployment failures.,Behavioral,Medium
+Amazon,DevOps Engineer,294,How would you scale infrastructure for high traffic?,System Design,Hard
+Amazon,DevOps Engineer,295,Explain containerization and orchestration.,Coding,Medium
+Amazon,QA Engineer,296,Explain different testing strategies.,Coding,Medium
+Amazon,QA Engineer,297,How do you write automated tests?,Coding,Medium
+Amazon,QA Engineer,298,Describe a challenging bug you found.,Behavioral,Medium
+Amazon,QA Engineer,299,Explain performance testing.,Coding,Hard
+Amazon,QA Engineer,300,How do you ensure software quality in releases?,Behavioral,Medium
+Microsoft,Software Engineer,301,Explain the difference between a process and a thread.,Coding,Medium
+Microsoft,Software Engineer,302,How would you design a scalable chat application?,System Design,Hard
+Microsoft,Software Engineer,303,Describe a time you optimized code for performance.,Behavioral,Medium
+Microsoft,Software Engineer,304,Explain memory management in programming languages.,Coding,Medium
+Microsoft,Software Engineer,305,How do you handle merge conflicts in Git?,Coding,Easy
+Microsoft,Data Scientist,306,Explain bias-variance tradeoff.,Coding,Medium
+Microsoft,Data Scientist,307,How would you handle missing values?,Coding,Medium
+Microsoft,Data Scientist,308,Describe a predictive model you built.,Behavioral,Medium
+Microsoft,Data Scientist,309,How do you evaluate a machine learning model?,Coding,Hard
+Microsoft,Data Scientist,310,Explain PCA and when to use it.,Coding,Medium
+Microsoft,AI Engineer,311,Explain supervised vs unsupervised learning.,Coding,Medium
+Microsoft,AI Engineer,312,Describe a neural network you implemented.,Coding,Hard
+Microsoft,AI Engineer,313,How do you prevent overfitting in deep learning?,Coding,Hard
+Microsoft,AI Engineer,314,What is reinforcement learning?,Coding,Medium
+Microsoft,AI Engineer,315,How do you optimize model performance?,Coding,Medium
+Microsoft,DevOps Engineer,316,Explain CI/CD pipeline.,System Design,Medium
+Microsoft,DevOps Engineer,317,How do you monitor server performance?,Coding,Medium
+Microsoft,DevOps Engineer,318,Describe a time you handled deployment failures.,Behavioral,Medium
+Microsoft,DevOps Engineer,319,How would you scale infrastructure for high traffic?,System Design,Hard
+Microsoft,DevOps Engineer,320,Explain containerization and orchestration.,Coding,Medium
+Microsoft,QA Engineer,321,Explain different testing strategies.,Coding,Medium
+Microsoft,QA Engineer,322,How do you write automated tests?,Coding,Medium
+Microsoft,QA Engineer,323,Describe a challenging bug you found.,Behavioral,Medium
+Microsoft,QA Engineer,324,Explain performance testing.,Coding,Hard
+Microsoft,QA Engineer,325,How do you ensure software quality in releases?,Behavioral,Medium
+Meta,Software Engineer,326,Explain the difference between a process and a thread.,Coding,Medium
+Meta,Software Engineer,327,How would you design a scalable chat application?,System Design,Hard
+Meta,Software Engineer,328,Describe a time you optimized code for performance.,Behavioral,Medium
+Meta,Software Engineer,329,Explain memory management in programming languages.,Coding,Medium
+Meta,Software Engineer,330,How do you handle merge conflicts in Git?,Coding,Easy
+Meta,Data Scientist,331,Explain bias-variance tradeoff.,Coding,Medium
+Meta,Data Scientist,332,How would you handle missing values?,Coding,Medium
+Meta,Data Scientist,333,Describe a predictive model you built.,Behavioral,Medium
+Meta,Data Scientist,334,How do you evaluate a machine learning model?,Coding,Hard
+Meta,Data Scientist,335,Explain PCA and when to use it.,Coding,Medium
+Meta,AI Engineer,336,Explain supervised vs unsupervised learning.,Coding,Medium
+Meta,AI Engineer,337,Describe a neural network you implemented.,Coding,Hard
+Meta,AI Engineer,338,How do you prevent overfitting in deep learning?,Coding,Hard
+Meta,AI Engineer,339,What is reinforcement learning?,Coding,Medium
+Meta,AI Engineer,340,How do you optimize model performance?,Coding,Medium
+Meta,DevOps Engineer,341,Explain CI/CD pipeline.,System Design,Medium
+Meta,DevOps Engineer,342,How do you monitor server performance?,Coding,Medium
+Meta,DevOps Engineer,343,Describe a time you handled deployment failures.,Behavioral,Medium
+Meta,DevOps Engineer,344,How would you scale infrastructure for high traffic?,System Design,Hard
+Meta,DevOps Engineer,345,Explain containerization and orchestration.,Coding,Medium
+Meta,QA Engineer,346,Explain different testing strategies.,Coding,Medium
+Meta,QA Engineer,347,How do you write automated tests?,Coding,Medium
+Meta,QA Engineer,348,Describe a challenging bug you found.,Behavioral,Medium
+Meta,QA Engineer,349,Explain performance testing.,Coding,Hard
+Meta,QA Engineer,350,How do you ensure software quality in releases?,Behavioral,Medium
+Apple,Software Engineer,351,Explain the difference between a process and a thread.,Coding,Medium
+Apple,Software Engineer,352,How would you design a scalable chat application?,System Design,Hard
+Apple,Software Engineer,353,Describe a time you optimized code for performance.,Behavioral,Medium
+Apple,Software Engineer,354,Explain memory management in programming languages.,Coding,Medium
+Apple,Software Engineer,355,How do you handle merge conflicts in Git?,Coding,Easy
+Apple,Data Scientist,356,Explain bias-variance tradeoff.,Coding,Medium
+Apple,Data Scientist,357,How would you handle missing values?,Coding,Medium
+Apple,Data Scientist,358,Describe a predictive model you built.,Behavioral,Medium
+Apple,Data Scientist,359,How do you evaluate a machine learning model?,Coding,Hard
+Apple,Data Scientist,360,Explain PCA and when to use it.,Coding,Medium
+Apple,AI Engineer,361,Explain supervised vs unsupervised learning.,Coding,Medium
+Apple,AI Engineer,362,Describe a neural network you implemented.,Coding,Hard
+Apple,AI Engineer,363,How do you prevent overfitting in deep learning?,Coding,Hard
+Apple,AI Engineer,364,What is reinforcement learning?,Coding,Medium
+Apple,AI Engineer,365,How do you optimize model performance?,Coding,Medium
+Apple,DevOps Engineer,366,Explain CI/CD pipeline.,System Design,Medium
+Apple,DevOps Engineer,367,How do you monitor server performance?,Coding,Medium
+Apple,DevOps Engineer,368,Describe a time you handled deployment failures.,Behavioral,Medium
+Apple,DevOps Engineer,369,How would you scale infrastructure for high traffic?,System Design,Hard
+Apple,DevOps Engineer,370,Explain containerization and orchestration.,Coding,Medium
+Apple,QA Engineer,371,Explain different testing strategies.,Coding,Medium
+Apple,QA Engineer,372,How do you write automated tests?,Coding,Medium
+Apple,QA Engineer,373,Describe a challenging bug you found.,Behavioral,Medium
+Apple,QA Engineer,374,Explain performance testing.,Coding,Hard
+Apple,QA Engineer,375,How do you ensure software quality in releases?,Behavioral,Medium
+Google,Software Engineer,376,Explain the difference between a process and a thread.,Coding,Medium
+Google,Software Engineer,377,How would you design a scalable chat application?,System Design,Hard
+Google,Software Engineer,378,Describe a time you optimized code for performance.,Behavioral,Medium
+Google,Software Engineer,379,Explain memory management in programming languages.,Coding,Medium
+Google,Software Engineer,380,How do you handle merge conflicts in Git?,Coding,Easy
+Google,Data Scientist,381,Explain bias-variance tradeoff.,Coding,Medium
+Google,Data Scientist,382,How would you handle missing values?,Coding,Medium
+Google,Data Scientist,383,Describe a predictive model you built.,Behavioral,Medium
+Google,Data Scientist,384,How do you evaluate a machine learning model?,Coding,Hard
+Google,Data Scientist,385,Explain PCA and when to use it.,Coding,Medium
+Google,AI Engineer,386,Explain supervised vs unsupervised learning.,Coding,Medium
+Google,AI Engineer,387,Describe a neural network you implemented.,Coding,Hard
+Google,AI Engineer,388,How do you prevent overfitting in deep learning?,Coding,Hard
+Google,AI Engineer,389,What is reinforcement learning?,Coding,Medium
+Google,AI Engineer,390,How do you optimize model performance?,Coding,Medium
+Google,DevOps Engineer,391,Explain CI/CD pipeline.,System Design,Medium
+Google,DevOps Engineer,392,How do you monitor server performance?,Coding,Medium
+Google,DevOps Engineer,393,Describe a time you handled deployment failures.,Behavioral,Medium
+Google,DevOps Engineer,394,How would you scale infrastructure for high traffic?,System Design,Hard
+Google,DevOps Engineer,395,Explain containerization and orchestration.,Coding,Medium
+Google,QA Engineer,396,Explain different testing strategies.,Coding,Medium
+Google,QA Engineer,397,How do you write automated tests?,Coding,Medium
+Google,QA Engineer,398,Describe a challenging bug you found.,Behavioral,Medium
+Google,QA Engineer,399,Explain performance testing.,Coding,Hard
+Google,QA Engineer,400,How do you ensure software quality in releases?,Behavioral,Medium
+Amazon,Software Engineer,401,Explain the difference between a process and a thread.,Coding,Medium
+Amazon,Software Engineer,402,How would you design a scalable chat application?,System Design,Hard
+Amazon,Software Engineer,403,Describe a time you optimized code for performance.,Behavioral,Medium
+Amazon,Software Engineer,404,Explain memory management in programming languages.,Coding,Medium
+Amazon,Software Engineer,405,How do you handle merge conflicts in Git?,Coding,Easy
+Amazon,Data Scientist,406,Explain bias-variance tradeoff.,Coding,Medium
+Amazon,Data Scientist,407,How would you handle missing values?,Coding,Medium
+Amazon,Data Scientist,408,Describe a predictive model you built.,Behavioral,Medium
+Amazon,Data Scientist,409,How do you evaluate a machine learning model?,Coding,Hard
+Amazon,Data Scientist,410,Explain PCA and when to use it.,Coding,Medium
+Amazon,AI Engineer,411,Explain supervised vs unsupervised learning.,Coding,Medium
+Amazon,AI Engineer,412,Describe a neural network you implemented.,Coding,Hard
+Amazon,AI Engineer,413,How do you prevent overfitting in deep learning?,Coding,Hard
+Amazon,AI Engineer,414,What is reinforcement learning?,Coding,Medium
+Amazon,AI Engineer,415,How do you optimize model performance?,Coding,Medium
+Amazon,DevOps Engineer,416,Explain CI/CD pipeline.,System Design,Medium
+Amazon,DevOps Engineer,417,How do you monitor server performance?,Coding,Medium
+Amazon,DevOps Engineer,418,Describe a time you handled deployment failures.,Behavioral,Medium
+Amazon,DevOps Engineer,419,How would you scale infrastructure for high traffic?,System Design,Hard
+Amazon,DevOps Engineer,420,Explain containerization and orchestration.,Coding,Medium
+Amazon,QA Engineer,421,Explain different testing strategies.,Coding,Medium
+Amazon,QA Engineer,422,How do you write automated tests?,Coding,Medium
+Amazon,QA Engineer,423,Describe a challenging bug you found.,Behavioral,Medium
+Amazon,QA Engineer,424,Explain performance testing.,Coding,Hard
+Amazon,QA Engineer,425,How do you ensure software quality in releases?,Behavioral,Medium
+Microsoft,Software Engineer,426,Explain the difference between a process and a thread.,Coding,Medium
+Microsoft,Software Engineer,427,How would you design a scalable chat application?,System Design,Hard
+Microsoft,Software Engineer,428,Describe a time you optimized code for performance.,Behavioral,Medium
+Microsoft,Software Engineer,429,Explain memory management in programming languages.,Coding,Medium
+Microsoft,Software Engineer,430,How do you handle merge conflicts in Git?,Coding,Easy
+Microsoft,Data Scientist,431,Explain bias-variance tradeoff.,Coding,Medium
+Microsoft,Data Scientist,432,How would you handle missing values?,Coding,Medium
+Microsoft,Data Scientist,433,Describe a predictive model you built.,Behavioral,Medium
+Microsoft,Data Scientist,434,How do you evaluate a machine learning model?,Coding,Hard
+Microsoft,Data Scientist,435,Explain PCA and when to use it.,Coding,Medium
+Microsoft,AI Engineer,436,Explain supervised vs unsupervised learning.,Coding,Medium
+Microsoft,AI Engineer,437,Describe a neural network you implemented.,Coding,Hard
+Microsoft,AI Engineer,438,How do you prevent overfitting in deep learning?,Coding,Hard
+Microsoft,AI Engineer,439,What is reinforcement learning?,Coding,Medium
+Microsoft,AI Engineer,440,How do you optimize model performance?,Coding,Medium
+Microsoft,DevOps Engineer,441,Explain CI/CD pipeline.,System Design,Medium
+Microsoft,DevOps Engineer,442,How do you monitor server performance?,Coding,Medium
+Microsoft,DevOps Engineer,443,Describe a time you handled deployment failures.,Behavioral,Medium
+Microsoft,DevOps Engineer,444,How would you scale infrastructure for high traffic?,System Design,Hard
+Microsoft,DevOps Engineer,445,Explain containerization and orchestration.,Coding,Medium
+Microsoft,QA Engineer,446,Explain different testing strategies.,Coding,Medium
+Microsoft,QA Engineer,447,How do you write automated tests?,Coding,Medium
+Microsoft,QA Engineer,448,Describe a challenging bug you found.,Behavioral,Medium
+Microsoft,QA Engineer,449,Explain performance testing.,Coding,Hard
+Microsoft,QA Engineer,450,How do you ensure software quality in releases?,Behavioral,Medium
+Meta,Software Engineer,451,Explain the difference between a process and a thread.,Coding,Medium
+Meta,Software Engineer,452,How would you design a scalable chat application?,System Design,Hard
+Meta,Software Engineer,453,Describe a time you optimized code for performance.,Behavioral,Medium
+Meta,Software Engineer,454,Explain memory management in programming languages.,Coding,Medium
+Meta,Software Engineer,455,How do you handle merge conflicts in Git?,Coding,Easy
+Meta,Data Scientist,456,Explain bias-variance tradeoff.,Coding,Medium
+Meta,Data Scientist,457,How would you handle missing values?,Coding,Medium
+Meta,Data Scientist,458,Describe a predictive model you built.,Behavioral,Medium
+Meta,Data Scientist,459,How do you evaluate a machine learning model?,Coding,Hard
+Meta,Data Scientist,460,Explain PCA and when to use it.,Coding,Medium
+Meta,AI Engineer,461,Explain supervised vs unsupervised learning.,Coding,Medium
+Meta,AI Engineer,462,Describe a neural network you implemented.,Coding,Hard
+Meta,AI Engineer,463,How do you prevent overfitting in deep learning?,Coding,Hard
+Meta,AI Engineer,464,What is reinforcement learning?,Coding,Medium
+Meta,AI Engineer,465,How do you optimize model performance?,Coding,Medium
+Meta,DevOps Engineer,466,Explain CI/CD pipeline.,System Design,Medium
+Meta,DevOps Engineer,467,How do you monitor server performance?,Coding,Medium
+Meta,DevOps Engineer,468,Describe a time you handled deployment failures.,Behavioral,Medium
+Meta,DevOps Engineer,469,How would you scale infrastructure for high traffic?,System Design,Hard
+Meta,DevOps Engineer,470,Explain containerization and orchestration.,Coding,Medium
+Meta,QA Engineer,471,Explain different testing strategies.,Coding,Medium
+Meta,QA Engineer,472,How do you write automated tests?,Coding,Medium
+Meta,QA Engineer,473,Describe a challenging bug you found.,Behavioral,Medium
+Meta,QA Engineer,474,Explain performance testing.,Coding,Hard
+Meta,QA Engineer,475,How do you ensure software quality in releases?,Behavioral,Medium
+Apple,Software Engineer,476,Explain the difference between a process and a thread.,Coding,Medium
+Apple,Software Engineer,477,How would you design a scalable chat application?,System Design,Hard
+Apple,Software Engineer,478,Describe a time you optimized code for performance.,Behavioral,Medium
+Apple,Software Engineer,479,Explain memory management in programming languages.,Coding,Medium
+Apple,Software Engineer,480,How do you handle merge conflicts in Git?,Coding,Easy
+Apple,Data Scientist,481,Explain bias-variance tradeoff.,Coding,Medium
+Apple,Data Scientist,482,How would you handle missing values?,Coding,Medium
+Apple,Data Scientist,483,Describe a predictive model you built.,Behavioral,Medium
+Apple,Data Scientist,484,How do you evaluate a machine learning model?,Coding,Hard
+Apple,Data Scientist,485,Explain PCA and when to use it.,Coding,Medium
+Apple,AI Engineer,486,Explain supervised vs unsupervised learning.,Coding,Medium
+Apple,AI Engineer,487,Describe a neural network you implemented.,Coding,Hard
+Apple,AI Engineer,488,How do you prevent overfitting in deep learning?,Coding,Hard
+Apple,AI Engineer,489,What is reinforcement learning?,Coding,Medium
+Apple,AI Engineer,490,How do you optimize model performance?,Coding,Medium
+Apple,DevOps Engineer,491,Explain CI/CD pipeline.,System Design,Medium
+Apple,DevOps Engineer,492,How do you monitor server performance?,Coding,Medium
+Apple,DevOps Engineer,493,Describe a time you handled deployment failures.,Behavioral,Medium
+Apple,DevOps Engineer,494,How would you scale infrastructure for high traffic?,System Design,Hard
+Apple,DevOps Engineer,495,Explain containerization and orchestration.,Coding,Medium
+Apple,QA Engineer,496,Explain different testing strategies.,Coding,Medium
+Apple,QA Engineer,497,How do you write automated tests?,Coding,Medium
+Apple,QA Engineer,498,Describe a challenging bug you found.,Behavioral,Medium
+Apple,QA Engineer,499,Explain performance testing.,Coding,Hard
+Apple,QA Engineer,500,How do you ensure software quality in releases?,Behavioral,Medium
+Google,Software Engineer,501,Explain the difference between a process and a thread.,Coding,Medium
+Google,Software Engineer,502,How would you design a scalable chat application?,System Design,Hard
+Google,Software Engineer,503,Describe a time you optimized code for performance.,Behavioral,Medium
+Google,Software Engineer,504,Explain memory management in programming languages.,Coding,Medium
+Google,Software Engineer,505,How do you handle merge conflicts in Git?,Coding,Easy
+Google,Data Scientist,506,Explain bias-variance tradeoff.,Coding,Medium
+Google,Data Scientist,507,How would you handle missing values?,Coding,Medium
+Google,Data Scientist,508,Describe a predictive model you built.,Behavioral,Medium
+Google,Data Scientist,509,How do you evaluate a machine learning model?,Coding,Hard
+Google,Data Scientist,510,Explain PCA and when to use it.,Coding,Medium
+Google,AI Engineer,511,Explain supervised vs unsupervised learning.,Coding,Medium
+Google,AI Engineer,512,Describe a neural network you implemented.,Coding,Hard
+Google,AI Engineer,513,How do you prevent overfitting in deep learning?,Coding,Hard
+Google,AI Engineer,514,What is reinforcement learning?,Coding,Medium
+Google,AI Engineer,515,How do you optimize model performance?,Coding,Medium
+Google,DevOps Engineer,516,Explain CI/CD pipeline.,System Design,Medium
+Google,DevOps Engineer,517,How do you monitor server performance?,Coding,Medium
+Google,DevOps Engineer,518,Describe a time you handled deployment failures.,Behavioral,Medium
+Google,DevOps Engineer,519,How would you scale infrastructure for high traffic?,System Design,Hard
+Google,DevOps Engineer,520,Explain containerization and orchestration.,Coding,Medium
+Google,QA Engineer,521,Explain different testing strategies.,Coding,Medium
+Google,QA Engineer,522,How do you write automated tests?,Coding,Medium
+Google,QA Engineer,523,Describe a challenging bug you found.,Behavioral,Medium
+Google,QA Engineer,524,Explain performance testing.,Coding,Hard
+Google,QA Engineer,525,How do you ensure software quality in releases?,Behavioral,Medium
+Amazon,Software Engineer,526,Explain the difference between a process and a thread.,Coding,Medium
+Amazon,Software Engineer,527,How would you design a scalable chat application?,System Design,Hard
+Amazon,Software Engineer,528,Describe a time you optimized code for performance.,Behavioral,Medium
+Amazon,Software Engineer,529,Explain memory management in programming languages.,Coding,Medium
+Amazon,Software Engineer,530,How do you handle merge conflicts in Git?,Coding,Easy
+Amazon,Data Scientist,531,Explain bias-variance tradeoff.,Coding,Medium
+Amazon,Data Scientist,532,How would you handle missing values?,Coding,Medium
+Amazon,Data Scientist,533,Describe a predictive model you built.,Behavioral,Medium
+Amazon,Data Scientist,534,How do you evaluate a machine learning model?,Coding,Hard
+Amazon,Data Scientist,535,Explain PCA and when to use it.,Coding,Medium
+Amazon,AI Engineer,536,Explain supervised vs unsupervised learning.,Coding,Medium
+Amazon,AI Engineer,537,Describe a neural network you implemented.,Coding,Hard
+Amazon,AI Engineer,538,How do you prevent overfitting in deep learning?,Coding,Hard
+Amazon,AI Engineer,539,What is reinforcement learning?,Coding,Medium
+Amazon,AI Engineer,540,How do you optimize model performance?,Coding,Medium
+Amazon,DevOps Engineer,541,Explain CI/CD pipeline.,System Design,Medium
+Amazon,DevOps Engineer,542,How do you monitor server performance?,Coding,Medium
+Amazon,DevOps Engineer,543,Describe a time you handled deployment failures.,Behavioral,Medium
+Amazon,DevOps Engineer,544,How would you scale infrastructure for high traffic?,System Design,Hard
+Amazon,DevOps Engineer,545,Explain containerization and orchestration.,Coding,Medium
+Amazon,QA Engineer,546,Explain different testing strategies.,Coding,Medium
+Amazon,QA Engineer,547,How do you write automated tests?,Coding,Medium
+Amazon,QA Engineer,548,Describe a challenging bug you found.,Behavioral,Medium
+Amazon,QA Engineer,549,Explain performance testing.,Coding,Hard
+Amazon,QA Engineer,550,How do you ensure software quality in releases?,Behavioral,Medium
+Microsoft,Software Engineer,551,Explain the difference between a process and a thread.,Coding,Medium
+Microsoft,Software Engineer,552,How would you design a scalable chat application?,System Design,Hard
+Microsoft,Software Engineer,553,Describe a time you optimized code for performance.,Behavioral,Medium
+Microsoft,Software Engineer,554,Explain memory management in programming languages.,Coding,Medium
+Microsoft,Software Engineer,555,How do you handle merge conflicts in Git?,Coding,Easy
+Microsoft,Data Scientist,556,Explain bias-variance tradeoff.,Coding,Medium
+Microsoft,Data Scientist,557,How would you handle missing values?,Coding,Medium
+Microsoft,Data Scientist,558,Describe a predictive model you built.,Behavioral,Medium
+Microsoft,Data Scientist,559,How do you evaluate a machine learning model?,Coding,Hard
+Microsoft,Data Scientist,560,Explain PCA and when to use it.,Coding,Medium
+Microsoft,AI Engineer,561,Explain supervised vs unsupervised learning.,Coding,Medium
+Microsoft,AI Engineer,562,Describe a neural network you implemented.,Coding,Hard
+Microsoft,AI Engineer,563,How do you prevent overfitting in deep learning?,Coding,Hard
+Microsoft,AI Engineer,564,What is reinforcement learning?,Coding,Medium
+Microsoft,AI Engineer,565,How do you optimize model performance?,Coding,Medium
+Microsoft,DevOps Engineer,566,Explain CI/CD pipeline.,System Design,Medium
+Microsoft,DevOps Engineer,567,How do you monitor server performance?,Coding,Medium
+Microsoft,DevOps Engineer,568,Describe a time you handled deployment failures.,Behavioral,Medium
+Microsoft,DevOps Engineer,569,How would you scale infrastructure for high traffic?,System Design,Hard
+Microsoft,DevOps Engineer,570,Explain containerization and orchestration.,Coding,Medium
+Microsoft,QA Engineer,571,Explain different testing strategies.,Coding,Medium
+Microsoft,QA Engineer,572,How do you write automated tests?,Coding,Medium
+Microsoft,QA Engineer,573,Describe a challenging bug you found.,Behavioral,Medium
+Microsoft,QA Engineer,574,Explain performance testing.,Coding,Hard
+Microsoft,QA Engineer,575,How do you ensure software quality in releases?,Behavioral,Medium
+Meta,Software Engineer,576,Explain the difference between a process and a thread.,Coding,Medium
+Meta,Software Engineer,577,How would you design a scalable chat application?,System Design,Hard
+Meta,Software Engineer,578,Describe a time you optimized code for performance.,Behavioral,Medium
+Meta,Software Engineer,579,Explain memory management in programming languages.,Coding,Medium
+Meta,Software Engineer,580,How do you handle merge conflicts in Git?,Coding,Easy
+Meta,Data Scientist,581,Explain bias-variance tradeoff.,Coding,Medium
+Meta,Data Scientist,582,How would you handle missing values?,Coding,Medium
+Meta,Data Scientist,583,Describe a predictive model you built.,Behavioral,Medium
+Meta,Data Scientist,584,How do you evaluate a machine learning model?,Coding,Hard
+Meta,Data Scientist,585,Explain PCA and when to use it.,Coding,Medium
+Meta,AI Engineer,586,Explain supervised vs unsupervised learning.,Coding,Medium
+Meta,AI Engineer,587,Describe a neural network you implemented.,Coding,Hard
+Meta,AI Engineer,588,How do you prevent overfitting in deep learning?,Coding,Hard
+Meta,AI Engineer,589,What is reinforcement learning?,Coding,Medium
+Meta,AI Engineer,590,How do you optimize model performance?,Coding,Medium
+Meta,DevOps Engineer,591,Explain CI/CD pipeline.,System Design,Medium
+Meta,DevOps Engineer,592,How do you monitor server performance?,Coding,Medium
+Meta,DevOps Engineer,593,Describe a time you handled deployment failures.,Behavioral,Medium
+Meta,DevOps Engineer,594,How would you scale infrastructure for high traffic?,System Design,Hard
+Meta,DevOps Engineer,595,Explain containerization and orchestration.,Coding,Medium
+Meta,QA Engineer,596,Explain different testing strategies.,Coding,Medium
+Meta,QA Engineer,597,How do you write automated tests?,Coding,Medium
+Meta,QA Engineer,598,Describe a challenging bug you found.,Behavioral,Medium
+Meta,QA Engineer,599,Explain performance testing.,Coding,Hard
+Meta,QA Engineer,600,How do you ensure software quality in releases?,Behavioral,Medium
+Apple,Software Engineer,601,Explain the difference between a process and a thread.,Coding,Medium
+Apple,Software Engineer,602,How would you design a scalable chat application?,System Design,Hard
+Apple,Software Engineer,603,Describe a time you optimized code for performance.,Behavioral,Medium
+Apple,Software Engineer,604,Explain memory management in programming languages.,Coding,Medium
+Apple,Software Engineer,605,How do you handle merge conflicts in Git?,Coding,Easy
+Apple,Data Scientist,606,Explain bias-variance tradeoff.,Coding,Medium
+Apple,Data Scientist,607,How would you handle missing values?,Coding,Medium
+Apple,Data Scientist,608,Describe a predictive model you built.,Behavioral,Medium
+Apple,Data Scientist,609,How do you evaluate a machine learning model?,Coding,Hard
+Apple,Data Scientist,610,Explain PCA and when to use it.,Coding,Medium
+Apple,AI Engineer,611,Explain supervised vs unsupervised learning.,Coding,Medium
+Apple,AI Engineer,612,Describe a neural network you implemented.,Coding,Hard
+Apple,AI Engineer,613,How do you prevent overfitting in deep learning?,Coding,Hard
+Apple,AI Engineer,614,What is reinforcement learning?,Coding,Medium
+Apple,AI Engineer,615,How do you optimize model performance?,Coding,Medium
+Apple,DevOps Engineer,616,Explain CI/CD pipeline.,System Design,Medium
+Apple,DevOps Engineer,617,How do you monitor server performance?,Coding,Medium
+Apple,DevOps Engineer,618,Describe a time you handled deployment failures.,Behavioral,Medium
+Apple,DevOps Engineer,619,How would you scale infrastructure for high traffic?,System Design,Hard
+Apple,DevOps Engineer,620,Explain containerization and orchestration.,Coding,Medium
+Apple,QA Engineer,621,Explain different testing strategies.,Coding,Medium
+Apple,QA Engineer,622,How do you write automated tests?,Coding,Medium
+Apple,QA Engineer,623,Describe a challenging bug you found.,Behavioral,Medium
+Apple,QA Engineer,624,Explain performance testing.,Coding,Hard
+Apple,QA Engineer,625,How do you ensure software quality in releases?,Behavioral,Medium
+Google,Software Engineer,626,Explain the difference between a process and a thread.,Coding,Medium
+Google,Software Engineer,627,How would you design a scalable chat application?,System Design,Hard
+Google,Software Engineer,628,Describe a time you optimized code for performance.,Behavioral,Medium
+Google,Software Engineer,629,Explain memory management in programming languages.,Coding,Medium
+Google,Software Engineer,630,How do you handle merge conflicts in Git?,Coding,Easy
+Google,Data Scientist,631,Explain bias-variance tradeoff.,Coding,Medium
+Google,Data Scientist,632,How would you handle missing values?,Coding,Medium
+Google,Data Scientist,633,Describe a predictive model you built.,Behavioral,Medium
+Google,Data Scientist,634,How do you evaluate a machine learning model?,Coding,Hard
+Google,Data Scientist,635,Explain PCA and when to use it.,Coding,Medium
+Google,AI Engineer,636,Explain supervised vs unsupervised learning.,Coding,Medium
+Google,AI Engineer,637,Describe a neural network you implemented.,Coding,Hard
+Google,AI Engineer,638,How do you prevent overfitting in deep learning?,Coding,Hard
+Google,AI Engineer,639,What is reinforcement learning?,Coding,Medium
+Google,AI Engineer,640,How do you optimize model performance?,Coding,Medium
+Google,DevOps Engineer,641,Explain CI/CD pipeline.,System Design,Medium
+Google,DevOps Engineer,642,How do you monitor server performance?,Coding,Medium
+Google,DevOps Engineer,643,Describe a time you handled deployment failures.,Behavioral,Medium
+Google,DevOps Engineer,644,How would you scale infrastructure for high traffic?,System Design,Hard
+Google,DevOps Engineer,645,Explain containerization and orchestration.,Coding,Medium
+Google,QA Engineer,646,Explain different testing strategies.,Coding,Medium
+Google,QA Engineer,647,How do you write automated tests?,Coding,Medium
+Google,QA Engineer,648,Describe a challenging bug you found.,Behavioral,Medium
+Google,QA Engineer,649,Explain performance testing.,Coding,Hard
+Google,QA Engineer,650,How do you ensure software quality in releases?,Behavioral,Medium
+Amazon,Software Engineer,651,Explain the difference between a process and a thread.,Coding,Medium
+Amazon,Software Engineer,652,How would you design a scalable chat application?,System Design,Hard
+Amazon,Software Engineer,653,Describe a time you optimized code for performance.,Behavioral,Medium
+Amazon,Software Engineer,654,Explain memory management in programming languages.,Coding,Medium
+Amazon,Software Engineer,655,How do you handle merge conflicts in Git?,Coding,Easy
+Amazon,Data Scientist,656,Explain bias-variance tradeoff.,Coding,Medium
+Amazon,Data Scientist,657,How would you handle missing values?,Coding,Medium
+Amazon,Data Scientist,658,Describe a predictive model you built.,Behavioral,Medium
+Amazon,Data Scientist,659,How do you evaluate a machine learning model?,Coding,Hard
+Amazon,Data Scientist,660,Explain PCA and when to use it.,Coding,Medium
+Amazon,AI Engineer,661,Explain supervised vs unsupervised learning.,Coding,Medium
+Amazon,AI Engineer,662,Describe a neural network you implemented.,Coding,Hard
+Amazon,AI Engineer,663,How do you prevent overfitting in deep learning?,Coding,Hard
+Amazon,AI Engineer,664,What is reinforcement learning?,Coding,Medium
+Amazon,AI Engineer,665,How do you optimize model performance?,Coding,Medium
+Amazon,DevOps Engineer,666,Explain CI/CD pipeline.,System Design,Medium
+Amazon,DevOps Engineer,667,How do you monitor server performance?,Coding,Medium
+Amazon,DevOps Engineer,668,Describe a time you handled deployment failures.,Behavioral,Medium
+Amazon,DevOps Engineer,669,How would you scale infrastructure for high traffic?,System Design,Hard
+Amazon,DevOps Engineer,670,Explain containerization and orchestration.,Coding,Medium
+Amazon,QA Engineer,671,Explain different testing strategies.,Coding,Medium
+Amazon,QA Engineer,672,How do you write automated tests?,Coding,Medium
+Amazon,QA Engineer,673,Describe a challenging bug you found.,Behavioral,Medium
+Amazon,QA Engineer,674,Explain performance testing.,Coding,Hard
+Amazon,QA Engineer,675,How do you ensure software quality in releases?,Behavioral,Medium
+Microsoft,Software Engineer,676,Explain the difference between a process and a thread.,Coding,Medium
+Microsoft,Software Engineer,677,How would you design a scalable chat application?,System Design,Hard
+Microsoft,Software Engineer,678,Describe a time you optimized code for performance.,Behavioral,Medium
+Microsoft,Software Engineer,679,Explain memory management in programming languages.,Coding,Medium
+Microsoft,Software Engineer,680,How do you handle merge conflicts in Git?,Coding,Easy
+Microsoft,Data Scientist,681,Explain bias-variance tradeoff.,Coding,Medium
+Microsoft,Data Scientist,682,How would you handle missing values?,Coding,Medium
+Microsoft,Data Scientist,683,Describe a predictive model you built.,Behavioral,Medium
+Microsoft,Data Scientist,684,How do you evaluate a machine learning model?,Coding,Hard
+Microsoft,Data Scientist,685,Explain PCA and when to use it.,Coding,Medium
+Microsoft,AI Engineer,686,Explain supervised vs unsupervised learning.,Coding,Medium
+Microsoft,AI Engineer,687,Describe a neural network you implemented.,Coding,Hard
+Microsoft,AI Engineer,688,How do you prevent overfitting in deep learning?,Coding,Hard
+Microsoft,AI Engineer,689,What is reinforcement learning?,Coding,Medium
+Microsoft,AI Engineer,690,How do you optimize model performance?,Coding,Medium
+Microsoft,DevOps Engineer,691,Explain CI/CD pipeline.,System Design,Medium
+Microsoft,DevOps Engineer,692,How do you monitor server performance?,Coding,Medium
+Microsoft,DevOps Engineer,693,Describe a time you handled deployment failures.,Behavioral,Medium
+Microsoft,DevOps Engineer,694,How would you scale infrastructure for high traffic?,System Design,Hard
+Microsoft,DevOps Engineer,695,Explain containerization and orchestration.,Coding,Medium
+Microsoft,QA Engineer,696,Explain different testing strategies.,Coding,Medium
+Microsoft,QA Engineer,697,How do you write automated tests?,Coding,Medium
+Microsoft,QA Engineer,698,Describe a challenging bug you found.,Behavioral,Medium
+Microsoft,QA Engineer,699,Explain performance testing.,Coding,Hard
+Microsoft,QA Engineer,700,How do you ensure software quality in releases?,Behavioral,Medium
+Meta,Software Engineer,701,Explain the difference between a process and a thread.,Coding,Medium
+Meta,Software Engineer,702,How would you design a scalable chat application?,System Design,Hard
+Meta,Software Engineer,703,Describe a time you optimized code for performance.,Behavioral,Medium
+Meta,Software Engineer,704,Explain memory management in programming languages.,Coding,Medium
+Meta,Software Engineer,705,How do you handle merge conflicts in Git?,Coding,Easy
+Meta,Data Scientist,706,Explain bias-variance tradeoff.,Coding,Medium
+Meta,Data Scientist,707,How would you handle missing values?,Coding,Medium
+Meta,Data Scientist,708,Describe a predictive model you built.,Behavioral,Medium
+Meta,Data Scientist,709,How do you evaluate a machine learning model?,Coding,Hard
+Meta,Data Scientist,710,Explain PCA and when to use it.,Coding,Medium
+Meta,AI Engineer,711,Explain supervised vs unsupervised learning.,Coding,Medium
+Meta,AI Engineer,712,Describe a neural network you implemented.,Coding,Hard
+Meta,AI Engineer,713,How do you prevent overfitting in deep learning?,Coding,Hard
+Meta,AI Engineer,714,What is reinforcement learning?,Coding,Medium
+Meta,AI Engineer,715,How do you optimize model performance?,Coding,Medium
+Meta,DevOps Engineer,716,Explain CI/CD pipeline.,System Design,Medium
+Meta,DevOps Engineer,717,How do you monitor server performance?,Coding,Medium
+Meta,DevOps Engineer,718,Describe a time you handled deployment failures.,Behavioral,Medium
+Meta,DevOps Engineer,719,How would you scale infrastructure for high traffic?,System Design,Hard
+Meta,DevOps Engineer,720,Explain containerization and orchestration.,Coding,Medium
+Meta,QA Engineer,721,Explain different testing strategies.,Coding,Medium
+Meta,QA Engineer,722,How do you write automated tests?,Coding,Medium
+Meta,QA Engineer,723,Describe a challenging bug you found.,Behavioral,Medium
+Meta,QA Engineer,724,Explain performance testing.,Coding,Hard
+Meta,QA Engineer,725,How do you ensure software quality in releases?,Behavioral,Medium
+Apple,Software Engineer,726,Explain the difference between a process and a thread.,Coding,Medium
+Apple,Software Engineer,727,How would you design a scalable chat application?,System Design,Hard
+Apple,Software Engineer,728,Describe a time you optimized code for performance.,Behavioral,Medium
+Apple,Software Engineer,729,Explain memory management in programming languages.,Coding,Medium
+Apple,Software Engineer,730,How do you handle merge conflicts in Git?,Coding,Easy
+Apple,Data Scientist,731,Explain bias-variance tradeoff.,Coding,Medium
+Apple,Data Scientist,732,How would you handle missing values?,Coding,Medium
+Apple,Data Scientist,733,Describe a predictive model you built.,Behavioral,Medium
+Apple,Data Scientist,734,How do you evaluate a machine learning model?,Coding,Hard
+Apple,Data Scientist,735,Explain PCA and when to use it.,Coding,Medium
+Apple,AI Engineer,736,Explain supervised vs unsupervised learning.,Coding,Medium
+Apple,AI Engineer,737,Describe a neural network you implemented.,Coding,Hard
+Apple,AI Engineer,738,How do you prevent overfitting in deep learning?,Coding,Hard
+Apple,AI Engineer,739,What is reinforcement learning?,Coding,Medium
+Apple,AI Engineer,740,How do you optimize model performance?,Coding,Medium
+Apple,DevOps Engineer,741,Explain CI/CD pipeline.,System Design,Medium
+Apple,DevOps Engineer,742,How do you monitor server performance?,Coding,Medium
+Apple,DevOps Engineer,743,Describe a time you handled deployment failures.,Behavioral,Medium
+Apple,DevOps Engineer,744,How would you scale infrastructure for high traffic?,System Design,Hard
+Apple,DevOps Engineer,745,Explain containerization and orchestration.,Coding,Medium
+Apple,QA Engineer,746,Explain different testing strategies.,Coding,Medium
+Apple,QA Engineer,747,How do you write automated tests?,Coding,Medium
+Apple,QA Engineer,748,Describe a challenging bug you found.,Behavioral,Medium
+Apple,QA Engineer,749,Explain performance testing.,Coding,Hard
+Apple,QA Engineer,750,How do you ensure software quality in releases?,Behavioral,Medium
+Google,Software Engineer,751,Explain the difference between a process and a thread.,Coding,Medium
+Google,Software Engineer,752,How would you design a scalable chat application?,System Design,Hard
+Google,Software Engineer,753,Describe a time you optimized code for performance.,Behavioral,Medium
+Google,Software Engineer,754,Explain memory management in programming languages.,Coding,Medium
+Google,Software Engineer,755,How do you handle merge conflicts in Git?,Coding,Easy
+Google,Data Scientist,756,Explain bias-variance tradeoff.,Coding,Medium
+Google,Data Scientist,757,How would you handle missing values?,Coding,Medium
+Google,Data Scientist,758,Describe a predictive model you built.,Behavioral,Medium
+Google,Data Scientist,759,How do you evaluate a machine learning model?,Coding,Hard
+Google,Data Scientist,760,Explain PCA and when to use it.,Coding,Medium
+Google,AI Engineer,761,Explain supervised vs unsupervised learning.,Coding,Medium
+Google,AI Engineer,762,Describe a neural network you implemented.,Coding,Hard
+Google,AI Engineer,763,How do you prevent overfitting in deep learning?,Coding,Hard
+Google,AI Engineer,764,What is reinforcement learning?,Coding,Medium
+Google,AI Engineer,765,How do you optimize model performance?,Coding,Medium
+Google,DevOps Engineer,766,Explain CI/CD pipeline.,System Design,Medium
+Google,DevOps Engineer,767,How do you monitor server performance?,Coding,Medium
+Google,DevOps Engineer,768,Describe a time you handled deployment failures.,Behavioral,Medium
+Google,DevOps Engineer,769,How would you scale infrastructure for high traffic?,System Design,Hard
+Google,DevOps Engineer,770,Explain containerization and orchestration.,Coding,Medium
+Google,QA Engineer,771,Explain different testing strategies.,Coding,Medium
+Google,QA Engineer,772,How do you write automated tests?,Coding,Medium
+Google,QA Engineer,773,Describe a challenging bug you found.,Behavioral,Medium
+Google,QA Engineer,774,Explain performance testing.,Coding,Hard
+Google,QA Engineer,775,How do you ensure software quality in releases?,Behavioral,Medium
+Amazon,Software Engineer,776,Explain the difference between a process and a thread.,Coding,Medium
+Amazon,Software Engineer,777,How would you design a scalable chat application?,System Design,Hard
+Amazon,Software Engineer,778,Describe a time you optimized code for performance.,Behavioral,Medium
+Amazon,Software Engineer,779,Explain memory management in programming languages.,Coding,Medium
+Amazon,Software Engineer,780,How do you handle merge conflicts in Git?,Coding,Easy
+Amazon,Data Scientist,781,Explain bias-variance tradeoff.,Coding,Medium
+Amazon,Data Scientist,782,How would you handle missing values?,Coding,Medium
+Amazon,Data Scientist,783,Describe a predictive model you built.,Behavioral,Medium
+Amazon,Data Scientist,784,How do you evaluate a machine learning model?,Coding,Hard
+Amazon,Data Scientist,785,Explain PCA and when to use it.,Coding,Medium
+Amazon,AI Engineer,786,Explain supervised vs unsupervised learning.,Coding,Medium
+Amazon,AI Engineer,787,Describe a neural network you implemented.,Coding,Hard
+Amazon,AI Engineer,788,How do you prevent overfitting in deep learning?,Coding,Hard
+Amazon,AI Engineer,789,What is reinforcement learning?,Coding,Medium
+Amazon,AI Engineer,790,How do you optimize model performance?,Coding,Medium
+Amazon,DevOps Engineer,791,Explain CI/CD pipeline.,System Design,Medium
+Amazon,DevOps Engineer,792,How do you monitor server performance?,Coding,Medium
+Amazon,DevOps Engineer,793,Describe a time you handled deployment failures.,Behavioral,Medium
+Amazon,DevOps Engineer,794,How would you scale infrastructure for high traffic?,System Design,Hard
+Amazon,DevOps Engineer,795,Explain containerization and orchestration.,Coding,Medium
+Amazon,QA Engineer,796,Explain different testing strategies.,Coding,Medium
+Amazon,QA Engineer,797,How do you write automated tests?,Coding,Medium
+Amazon,QA Engineer,798,Describe a challenging bug you found.,Behavioral,Medium
+Amazon,QA Engineer,799,Explain performance testing.,Coding,Hard
+Amazon,QA Engineer,800,How do you ensure software quality in releases?,Behavioral,Medium
+Microsoft,Software Engineer,801,Explain the difference between a process and a thread.,Coding,Medium
+Microsoft,Software Engineer,802,How would you design a scalable chat application?,System Design,Hard
+Microsoft,Software Engineer,803,Describe a time you optimized code for performance.,Behavioral,Medium
+Microsoft,Software Engineer,804,Explain memory management in programming languages.,Coding,Medium
+Microsoft,Software Engineer,805,How do you handle merge conflicts in Git?,Coding,Easy
+Microsoft,Data Scientist,806,Explain bias-variance tradeoff.,Coding,Medium
+Microsoft,Data Scientist,807,How would you handle missing values?,Coding,Medium
+Microsoft,Data Scientist,808,Describe a predictive model you built.,Behavioral,Medium
+Microsoft,Data Scientist,809,How do you evaluate a machine learning model?,Coding,Hard
+Microsoft,Data Scientist,810,Explain PCA and when to use it.,Coding,Medium
+Microsoft,AI Engineer,811,Explain supervised vs unsupervised learning.,Coding,Medium
+Microsoft,AI Engineer,812,Describe a neural network you implemented.,Coding,Hard
+Microsoft,AI Engineer,813,How do you prevent overfitting in deep learning?,Coding,Hard
+Microsoft,AI Engineer,814,What is reinforcement learning?,Coding,Medium
+Microsoft,AI Engineer,815,How do you optimize model performance?,Coding,Medium
+Microsoft,DevOps Engineer,816,Explain CI/CD pipeline.,System Design,Medium
+Microsoft,DevOps Engineer,817,How do you monitor server performance?,Coding,Medium
+Microsoft,DevOps Engineer,818,Describe a time you handled deployment failures.,Behavioral,Medium
+Microsoft,DevOps Engineer,819,How would you scale infrastructure for high traffic?,System Design,Hard
+Microsoft,DevOps Engineer,820,Explain containerization and orchestration.,Coding,Medium
+Microsoft,QA Engineer,821,Explain different testing strategies.,Coding,Medium
+Microsoft,QA Engineer,822,How do you write automated tests?,Coding,Medium
+Microsoft,QA Engineer,823,Describe a challenging bug you found.,Behavioral,Medium
+Microsoft,QA Engineer,824,Explain performance testing.,Coding,Hard
+Microsoft,QA Engineer,825,How do you ensure software quality in releases?,Behavioral,Medium
+Meta,Software Engineer,826,Explain the difference between a process and a thread.,Coding,Medium
+Meta,Software Engineer,827,How would you design a scalable chat application?,System Design,Hard
+Meta,Software Engineer,828,Describe a time you optimized code for performance.,Behavioral,Medium
+Meta,Software Engineer,829,Explain memory management in programming languages.,Coding,Medium
+Meta,Software Engineer,830,How do you handle merge conflicts in Git?,Coding,Easy
+Meta,Data Scientist,831,Explain bias-variance tradeoff.,Coding,Medium
+Meta,Data Scientist,832,How would you handle missing values?,Coding,Medium
+Meta,Data Scientist,833,Describe a predictive model you built.,Behavioral,Medium
+Meta,Data Scientist,834,How do you evaluate a machine learning model?,Coding,Hard
+Meta,Data Scientist,835,Explain PCA and when to use it.,Coding,Medium
+Meta,AI Engineer,836,Explain supervised vs unsupervised learning.,Coding,Medium
+Meta,AI Engineer,837,Describe a neural network you implemented.,Coding,Hard
+Meta,AI Engineer,838,How do you prevent overfitting in deep learning?,Coding,Hard
+Meta,AI Engineer,839,What is reinforcement learning?,Coding,Medium
+Meta,AI Engineer,840,How do you optimize model performance?,Coding,Medium
+Meta,DevOps Engineer,841,Explain CI/CD pipeline.,System Design,Medium
+Meta,DevOps Engineer,842,How do you monitor server performance?,Coding,Medium
+Meta,DevOps Engineer,843,Describe a time you handled deployment failures.,Behavioral,Medium
+Meta,DevOps Engineer,844,How would you scale infrastructure for high traffic?,System Design,Hard
+Meta,DevOps Engineer,845,Explain containerization and orchestration.,Coding,Medium
+Meta,QA Engineer,846,Explain different testing strategies.,Coding,Medium
+Meta,QA Engineer,847,How do you write automated tests?,Coding,Medium
+Meta,QA Engineer,848,Describe a challenging bug you found.,Behavioral,Medium
+Meta,QA Engineer,849,Explain performance testing.,Coding,Hard
+Meta,QA Engineer,850,How do you ensure software quality in releases?,Behavioral,Medium
+Apple,Software Engineer,851,Explain the difference between a process and a thread.,Coding,Medium
+Apple,Software Engineer,852,How would you design a scalable chat application?,System Design,Hard
+Apple,Software Engineer,853,Describe a time you optimized code for performance.,Behavioral,Medium
+Apple,Software Engineer,854,Explain memory management in programming languages.,Coding,Medium
+Apple,Software Engineer,855,How do you handle merge conflicts in Git?,Coding,Easy
+Apple,Data Scientist,856,Explain bias-variance tradeoff.,Coding,Medium
+Apple,Data Scientist,857,How would you handle missing values?,Coding,Medium
+Apple,Data Scientist,858,Describe a predictive model you built.,Behavioral,Medium
+Apple,Data Scientist,859,How do you evaluate a machine learning model?,Coding,Hard
+Apple,Data Scientist,860,Explain PCA and when to use it.,Coding,Medium
+Apple,AI Engineer,861,Explain supervised vs unsupervised learning.,Coding,Medium
+Apple,AI Engineer,862,Describe a neural network you implemented.,Coding,Hard
+Apple,AI Engineer,863,How do you prevent overfitting in deep learning?,Coding,Hard
+Apple,AI Engineer,864,What is reinforcement learning?,Coding,Medium
+Apple,AI Engineer,865,How do you optimize model performance?,Coding,Medium
+Apple,DevOps Engineer,866,Explain CI/CD pipeline.,System Design,Medium
+Apple,DevOps Engineer,867,How do you monitor server performance?,Coding,Medium
+Apple,DevOps Engineer,868,Describe a time you handled deployment failures.,Behavioral,Medium
+Apple,DevOps Engineer,869,How would you scale infrastructure for high traffic?,System Design,Hard
+Apple,DevOps Engineer,870,Explain containerization and orchestration.,Coding,Medium
+Apple,QA Engineer,871,Explain different testing strategies.,Coding,Medium
+Apple,QA Engineer,872,How do you write automated tests?,Coding,Medium
+Apple,QA Engineer,873,Describe a challenging bug you found.,Behavioral,Medium
+Apple,QA Engineer,874,Explain performance testing.,Coding,Hard
+Apple,QA Engineer,875,How do you ensure software quality in releases?,Behavioral,Medium
+Google,Software Engineer,876,Explain the difference between a process and a thread.,Coding,Medium
+Google,Software Engineer,877,How would you design a scalable chat application?,System Design,Hard
+Google,Software Engineer,878,Describe a time you optimized code for performance.,Behavioral,Medium
+Google,Software Engineer,879,Explain memory management in programming languages.,Coding,Medium
+Google,Software Engineer,880,How do you handle merge conflicts in Git?,Coding,Easy
+Google,Data Scientist,881,Explain bias-variance tradeoff.,Coding,Medium
+Google,Data Scientist,882,How would you handle missing values?,Coding,Medium
+Google,Data Scientist,883,Describe a predictive model you built.,Behavioral,Medium
+Google,Data Scientist,884,How do you evaluate a machine learning model?,Coding,Hard
+Google,Data Scientist,885,Explain PCA and when to use it.,Coding,Medium
+Google,AI Engineer,886,Explain supervised vs unsupervised learning.,Coding,Medium
+Google,AI Engineer,887,Describe a neural network you implemented.,Coding,Hard
+Google,AI Engineer,888,How do you prevent overfitting in deep learning?,Coding,Hard
+Google,AI Engineer,889,What is reinforcement learning?,Coding,Medium
+Google,AI Engineer,890,How do you optimize model performance?,Coding,Medium
+Google,DevOps Engineer,891,Explain CI/CD pipeline.,System Design,Medium
+Google,DevOps Engineer,892,How do you monitor server performance?,Coding,Medium
+Google,DevOps Engineer,893,Describe a time you handled deployment failures.,Behavioral,Medium
+Google,DevOps Engineer,894,How would you scale infrastructure for high traffic?,System Design,Hard
+Google,DevOps Engineer,895,Explain containerization and orchestration.,Coding,Medium
+Google,QA Engineer,896,Explain different testing strategies.,Coding,Medium
+Google,QA Engineer,897,How do you write automated tests?,Coding,Medium
+Google,QA Engineer,898,Describe a challenging bug you found.,Behavioral,Medium
+Google,QA Engineer,899,Explain performance testing.,Coding,Hard
+Google,QA Engineer,900,How do you ensure software quality in releases?,Behavioral,Medium
+Amazon,Software Engineer,901,Explain the difference between a process and a thread.,Coding,Medium
+Amazon,Software Engineer,902,How would you design a scalable chat application?,System Design,Hard
+Amazon,Software Engineer,903,Describe a time you optimized code for performance.,Behavioral,Medium
+Amazon,Software Engineer,904,Explain memory management in programming languages.,Coding,Medium
+Amazon,Software Engineer,905,How do you handle merge conflicts in Git?,Coding,Easy
+Amazon,Data Scientist,906,Explain bias-variance tradeoff.,Coding,Medium
+Amazon,Data Scientist,907,How would you handle missing values?,Coding,Medium
+Amazon,Data Scientist,908,Describe a predictive model you built.,Behavioral,Medium
+Amazon,Data Scientist,909,How do you evaluate a machine learning model?,Coding,Hard
+Amazon,Data Scientist,910,Explain PCA and when to use it.,Coding,Medium
+Amazon,AI Engineer,911,Explain supervised vs unsupervised learning.,Coding,Medium
+Amazon,AI Engineer,912,Describe a neural network you implemented.,Coding,Hard
+Amazon,AI Engineer,913,How do you prevent overfitting in deep learning?,Coding,Hard
+Amazon,AI Engineer,914,What is reinforcement learning?,Coding,Medium
+Amazon,AI Engineer,915,How do you optimize model performance?,Coding,Medium
+Amazon,DevOps Engineer,916,Explain CI/CD pipeline.,System Design,Medium
+Amazon,DevOps Engineer,917,How do you monitor server performance?,Coding,Medium
+Amazon,DevOps Engineer,918,Describe a time you handled deployment failures.,Behavioral,Medium
+Amazon,DevOps Engineer,919,How would you scale infrastructure for high traffic?,System Design,Hard
+Amazon,DevOps Engineer,920,Explain containerization and orchestration.,Coding,Medium
+Amazon,QA Engineer,921,Explain different testing strategies.,Coding,Medium
+Amazon,QA Engineer,922,How do you write automated tests?,Coding,Medium
+Amazon,QA Engineer,923,Describe a challenging bug you found.,Behavioral,Medium
+Amazon,QA Engineer,924,Explain performance testing.,Coding,Hard
+Amazon,QA Engineer,925,How do you ensure software quality in releases?,Behavioral,Medium
+Microsoft,Software Engineer,926,Explain the difference between a process and a thread.,Coding,Medium
+Microsoft,Software Engineer,927,How would you design a scalable chat application?,System Design,Hard
+Microsoft,Software Engineer,928,Describe a time you optimized code for performance.,Behavioral,Medium
+Microsoft,Software Engineer,929,Explain memory management in programming languages.,Coding,Medium
+Microsoft,Software Engineer,930,How do you handle merge conflicts in Git?,Coding,Easy
+Microsoft,Data Scientist,931,Explain bias-variance tradeoff.,Coding,Medium
+Microsoft,Data Scientist,932,How would you handle missing values?,Coding,Medium
+Microsoft,Data Scientist,933,Describe a predictive model you built.,Behavioral,Medium
+Microsoft,Data Scientist,934,How do you evaluate a machine learning model?,Coding,Hard
+Microsoft,Data Scientist,935,Explain PCA and when to use it.,Coding,Medium
+Microsoft,AI Engineer,936,Explain supervised vs unsupervised learning.,Coding,Medium
+Microsoft,AI Engineer,937,Describe a neural network you implemented.,Coding,Hard
+Microsoft,AI Engineer,938,How do you prevent overfitting in deep learning?,Coding,Hard
+Microsoft,AI Engineer,939,What is reinforcement learning?,Coding,Medium
+Microsoft,AI Engineer,940,How do you optimize model performance?,Coding,Medium
+Microsoft,DevOps Engineer,941,Explain CI/CD pipeline.,System Design,Medium
+Microsoft,DevOps Engineer,942,How do you monitor server performance?,Coding,Medium
+Microsoft,DevOps Engineer,943,Describe a time you handled deployment failures.,Behavioral,Medium
+Microsoft,DevOps Engineer,944,How would you scale infrastructure for high traffic?,System Design,Hard
+Microsoft,DevOps Engineer,945,Explain containerization and orchestration.,Coding,Medium
+Microsoft,QA Engineer,946,Explain different testing strategies.,Coding,Medium
+Microsoft,QA Engineer,947,How do you write automated tests?,Coding,Medium
+Microsoft,QA Engineer,948,Describe a challenging bug you found.,Behavioral,Medium
+Microsoft,QA Engineer,949,Explain performance testing.,Coding,Hard
+Microsoft,QA Engineer,950,How do you ensure software quality in releases?,Behavioral,Medium
+Meta,Software Engineer,951,Explain the difference between a process and a thread.,Coding,Medium
+Meta,Software Engineer,952,How would you design a scalable chat application?,System Design,Hard
+Meta,Software Engineer,953,Describe a time you optimized code for performance.,Behavioral,Medium
+Meta,Software Engineer,954,Explain memory management in programming languages.,Coding,Medium
+Meta,Software Engineer,955,How do you handle merge conflicts in Git?,Coding,Easy
+Meta,Data Scientist,956,Explain bias-variance tradeoff.,Coding,Medium
+Meta,Data Scientist,957,How would you handle missing values?,Coding,Medium
+Meta,Data Scientist,958,Describe a predictive model you built.,Behavioral,Medium
+Meta,Data Scientist,959,How do you evaluate a machine learning model?,Coding,Hard
+Meta,Data Scientist,960,Explain PCA and when to use it.,Coding,Medium
+Meta,AI Engineer,961,Explain supervised vs unsupervised learning.,Coding,Medium
+Meta,AI Engineer,962,Describe a neural network you implemented.,Coding,Hard
+Meta,AI Engineer,963,How do you prevent overfitting in deep learning?,Coding,Hard
+Meta,AI Engineer,964,What is reinforcement learning?,Coding,Medium
+Meta,AI Engineer,965,How do you optimize model performance?,Coding,Medium
+Meta,DevOps Engineer,966,Explain CI/CD pipeline.,System Design,Medium
+Meta,DevOps Engineer,967,How do you monitor server performance?,Coding,Medium
+Meta,DevOps Engineer,968,Describe a time you handled deployment failures.,Behavioral,Medium
+Meta,DevOps Engineer,969,How would you scale infrastructure for high traffic?,System Design,Hard
+Meta,DevOps Engineer,970,Explain containerization and orchestration.,Coding,Medium
+Meta,QA Engineer,971,Explain different testing strategies.,Coding,Medium
+Meta,QA Engineer,972,How do you write automated tests?,Coding,Medium
+Meta,QA Engineer,973,Describe a challenging bug you found.,Behavioral,Medium
+Meta,QA Engineer,974,Explain performance testing.,Coding,Hard
+Meta,QA Engineer,975,How do you ensure software quality in releases?,Behavioral,Medium
+Apple,Software Engineer,976,Explain the difference between a process and a thread.,Coding,Medium
+Apple,Software Engineer,977,How would you design a scalable chat application?,System Design,Hard
+Apple,Software Engineer,978,Describe a time you optimized code for performance.,Behavioral,Medium
+Apple,Software Engineer,979,Explain memory management in programming languages.,Coding,Medium
+Apple,Software Engineer,980,How do you handle merge conflicts in Git?,Coding,Easy
+Apple,Data Scientist,981,Explain bias-variance tradeoff.,Coding,Medium
+Apple,Data Scientist,982,How would you handle missing values?,Coding,Medium
+Apple,Data Scientist,983,Describe a predictive model you built.,Behavioral,Medium
+Apple,Data Scientist,984,How do you evaluate a machine learning model?,Coding,Hard
+Apple,Data Scientist,985,Explain PCA and when to use it.,Coding,Medium
+Apple,AI Engineer,986,Explain supervised vs unsupervised learning.,Coding,Medium
+Apple,AI Engineer,987,Describe a neural network you implemented.,Coding,Hard
+Apple,AI Engineer,988,How do you prevent overfitting in deep learning?,Coding,Hard
+Apple,AI Engineer,989,What is reinforcement learning?,Coding,Medium
+Apple,AI Engineer,990,How do you optimize model performance?,Coding,Medium
+Apple,DevOps Engineer,991,Explain CI/CD pipeline.,System Design,Medium
+Apple,DevOps Engineer,992,How do you monitor server performance?,Coding,Medium
+Apple,DevOps Engineer,993,Describe a time you handled deployment failures.,Behavioral,Medium
+Apple,DevOps Engineer,994,How would you scale infrastructure for high traffic?,System Design,Hard
+Apple,DevOps Engineer,995,Explain containerization and orchestration.,Coding,Medium
+Apple,QA Engineer,996,Explain different testing strategies.,Coding,Medium
+Apple,QA Engineer,997,How do you write automated tests?,Coding,Medium
+Apple,QA Engineer,998,Describe a challenging bug you found.,Behavioral,Medium
+Apple,QA Engineer,999,Explain performance testing.,Coding,Hard
+Apple,QA Engineer,1000,How do you ensure software quality in releases?,Behavioral,Medium
