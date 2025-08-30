@@ -24,7 +24,7 @@
 
 Clone the repository and install dependencies:
 
-git clone https://github.com/<Lakshya_kt>/MockMate-Your-friendly-mock-interview-partner.git  
+git clone https://github.com/Lakshya_kt/MockMate-Your-friendly-mock-interview-partner.git  
 cd MockMate-Your-friendly-mock-interview-partner  
 pip install -r requirements.txt
 
@@ -115,4 +115,5 @@ This project is MIT Licensed. See LICENSE for details.
 - Murf AI for TTS API  
 - Streamlit for the interactive interface  
 - SpeechRecognition for audio transcription
+
 
