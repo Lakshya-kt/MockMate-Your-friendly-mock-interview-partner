@@ -24,7 +24,6 @@
 
 Clone the repository and install dependencies:
 
-```bash
 ---
 
 git clone https://github.com/Lakshya_kt/MockMate-Your-friendly-mock-interview-partner.git
@@ -122,6 +121,7 @@ See the [LICENSE](LICENSE) file for more details.
 - Murf AI for TTS API  
 -Streamlit for the interactive interface
 -Sentence Transformers for semantic similarity
+
 
 
 
